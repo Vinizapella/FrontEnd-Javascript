@@ -26,5 +26,5 @@ Este projeto é o resultado prático do conteúdo apresentado na disciplina de [
 ---
 
 <p align="center">
-  &copy; 2025 - Meus Primeiros Passos com JavaScript
+  &copy; 2025 - Programação Front-End
 </p>
